@@ -1,0 +1,71 @@
+user_id,Customer_Age,Age_Group,Customer_Gender,Name,state_id
+1,19,Youth (<25),M,Bob,314
+2,49,Adults (35-64),M,Julian,104
+3,47,Adults (35-64),F,Maria,406
+4,35,Adults (35-64),M,James,403
+5,32,Young Adults (25-34),F,Anna,202
+6,34,Young Adults (25-34),M,Andrew,608
+7,29,Young Adults (25-34),M,Mas,609
+8,51,Adults (35-64),M,Doddy,101
+9,48,Adults (35-64),F,Ani,311
+10,43,Adults (35-64),F,Mirna,617
+11,61,Adults (35-64),M,Dedi,310
+12,57,Adults (35-64),M,George,406
+13,38,Adults (35-64),M,Sam,314
+14,52,Adults (35-64),F,Rahmi,102
+15,24,Youth (<25),F,Julia,401
+16,23,Youth (<25),M,Charlie,314
+17,26,Young Adults (25-34),F,Juliana,606
+18,54,Adults (35-64),F,Maryam,401
+19,46,Adults (35-64),M,Thomas,313
+20,41,Adults (35-64),F,Neng,405
+21,33,Young Adults (25-34),F,Nancy,306
+22,42,Adults (35-64),M,Tom ,402
+23,45,Adults (35-64),F,Nengsi,303
+24,53,Adults (35-64),M,Jerry,617
+25,21,Youth (<25),F,Putri,622
+26,22,Youth (<25),F,Diana,316
+27,67,Seniors (64+),F,Dior,201
+28,31,Young Adults (25-34),M,Jefri,105
+29,37,Adults (35-64),M,Abud,605
+30,87,Seniors (64+),F,Sasha,202
+31,25,Young Adults (25-34),F,Marni,402
+32,40,Adults (35-64),M,Wan,605
+33,44,Adults (35-64),M,Wawan,104
+34,55,Adults (35-64),F,Suci,618
+35,50,Adults (35-64),F,Suchi,309
+36,59,Adults (35-64),F,Sucy,620
+37,17,Youth (<25),M,Zidane,305
+38,27,Young Adults (25-34),F,Lucy,310
+39,28,Young Adults (25-34),F,Lusi,621
+40,36,Adults (35-64),F,Michelle,501
+41,56,Adults (35-64),M,David,406
+42,58,Adults (35-64),F,Zita,316
+43,30,Young Adults (25-34),M,Daud,609
+44,18,Youth (<25),F,Puteri,103
+45,62,Adults (35-64),F,Ukhti,405
+46,39,Adults (35-64),M,Yunus,616
+47,64,Adults (35-64),F,Neneng,203
+48,63,Adults (35-64),F,Eneng,615
+49,20,Youth (<25),F,Bunga,622
+50,60,Adults (35-64),M,Yohannes,619
+51,84,Seniors (64+),F,Cita,308
+52,68,Seniors (64+),M,Jacob,307
+53,65,Seniors (64+),M,Jojo,312
+54,73,Seniors (64+),F,Citra,617
+55,69,Seniors (64+),F,Anne,316
+56,66,Seniors (64+),F,Olivia,201
+57,75,Seniors (64+),M,Ginting,103
+58,76,Seniors (64+),M,Maman,404
+59,78,Seniors (64+),F,Jansen,611
+60,71,Seniors (64+),M,Ojak,611
+61,72,Seniors (64+),M,Rojali,609
+62,82,Seniors (64+),F,Chelsea,501
+63,86,Seniors (64+),M,Sambo,308
+64,77,Seniors (64+),F,Sari,404
+65,74,Seniors (64+),F,Nurrahmi,316
+66,85,Seniors (64+),M,Ferdy,316
+67,81,Seniors (64+),F,Noor,603
+68,80,Seniors (64+),F,Mbok,314
+69,70,Seniors (64+),M,Asep,301
+70,79,Seniors (64+),M,Obama,312

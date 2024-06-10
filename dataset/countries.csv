@@ -1,0 +1,54 @@
+Country,State,Country_id,State_id
+Australia,New South Wales,1,101
+Australia,Queensland,1,102
+Australia,South Australia,1,103
+Australia,Tasmania,1,104
+Australia,Victoria,1,105
+Canada,Alberta,2,201
+Canada,British Columbia,2,202
+Canada,Ontario,2,203
+France,Charente-Maritime,3,301
+France,Essonne,3,302
+France,Garonne (Haute),3,303
+France,Hauts de Seine,3,304
+France,Loir et Cher,3,305
+France,Loiret,3,306
+France,Moselle,3,307
+France,Nord,3,308
+France,Pas de Calais,3,309
+France,Seine (Paris),3,310
+France,Seine et Marne,3,311
+France,Seine Saint Denis,3,312
+France,Somme,3,313
+France,Val de Marne,3,314
+France,Val d'Oise,3,315
+France,Yveline,3,316
+Germany,Bayern,4,401
+Germany,Brandenburg,4,402
+Germany,Hamburg,4,403
+Germany,Hessen,4,404
+Germany,Nordrhein-Westfalen,4,405
+Germany,Saarland,4,406
+United Kingdom,England,5,501
+United States,Alabama,6,601
+United States,Arizona,6,602
+United States,California,6,603
+United States,Florida,6,604
+United States,Georgia,6,605
+United States,Illinois,6,606
+United States,Kentucky,6,607
+United States,Massachusetts,6,608
+United States,Minnesota,6,609
+United States,Mississippi,6,610
+United States,Missouri,6,611
+United States,Montana,6,612
+United States,New York,6,613
+United States,North Carolina,6,614
+United States,Ohio,6,615
+United States,Oregon,6,616
+United States,South Carolina,6,617
+United States,Texas,6,618
+United States,Utah,6,619
+United States,Virginia,6,620
+United States,Washington,6,621
+United States,Wyoming,6,622
