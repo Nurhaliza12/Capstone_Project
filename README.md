@@ -35,13 +35,13 @@ docker-compose -f docker-compose.yml up -d
 Dalam pengerjaan project ini, kami menggunakan Docker Desktop dan virtual machine GCP. Namun ketika run docker compose kami mengalami kendala sbb:
 
 1. Docker Desktop tidak run dengan sempurna
-![schema](img/error-docker1.jpg)
-![schema](img/error-docker2.jpg)
+![error-1](img/error-docker1.jpg)
+![error-2](img/error-docker2.jpg)
 
 2. Laptop mengalami hang
-![schema](img/flowchart.jpg)
+![error-3](img/hang.jpg)
 
 3. Docker Compose tidak run di VM
-![schema](img/error-VM1.jpg)
-![schema](img/error-VM2.jpg)
+![error-4](img/error-VM1.jpg)
+![error-5](img/error-VM2.jpg)
 
